@@ -1,0 +1,14 @@
+.box
+{
+    width: 600px;
+    margin: 40px auto;
+
+    border: 3px solid #fff;
+}
+
+
+.title
+{
+    color: red;
+    font-size: 80px;
+}
