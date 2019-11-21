@@ -51,10 +51,9 @@
 name: 'images/[name]-[hash].[ext]', 
 
 4.2. Загрузка svg картинок для этого устанавливаем библиотеку svg-react-loader
-Загрузка стилей 
-	>npm install css-loader style-loader --save-dev
-
+    Установка
 	>npm install --save-dev svg-react-loader
+
 Эта библиотека преобразует svg фаил в react компоненту, а затем мы используем два лоадеры.
 Так, как загрузка лоадеров происходит с низу вверх, загрузка будит такой:
 
